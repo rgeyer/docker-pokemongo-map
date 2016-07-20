@@ -1,5 +1,7 @@
 # docker-pokemongo-map
-A dockerfile which makes it pretty easy to stand up docker-pokemongo-map (see the README) in a docker container
+A dockerfile which makes it pretty easy to stand up docker-pokemongo-map in a docker container.
+
+Based on this badboy - https://github.com/AHAAAAAAA/PokemonGo-Map
 
 ## Usage
 This is terse...
