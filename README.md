@@ -1,4 +1,8 @@
 # docker-pokemongo-map
+*(DEPRECATED)*
+The official project (linked below) now has it's own Dockerfile and has been significantly updated. This is no longer needed
+
+## Description
 A dockerfile which makes it pretty easy to stand up docker-pokemongo-map in a docker container.
 
 Based on this badboy - https://github.com/AHAAAAAAA/PokemonGo-Map
